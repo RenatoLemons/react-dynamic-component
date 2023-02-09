@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RenatoLemons/react-dynamic-component/static/css/main.ca57846c.css",
+    "main.js": "/RenatoLemons/react-dynamic-component/static/js/main.3ef80a4a.js",
+    "static/js/787.7c78784a.chunk.js": "/RenatoLemons/react-dynamic-component/static/js/787.7c78784a.chunk.js",
+    "index.html": "/RenatoLemons/react-dynamic-component/index.html",
+    "main.ca57846c.css.map": "/RenatoLemons/react-dynamic-component/static/css/main.ca57846c.css.map",
+    "main.3ef80a4a.js.map": "/RenatoLemons/react-dynamic-component/static/js/main.3ef80a4a.js.map",
+    "787.7c78784a.chunk.js.map": "/RenatoLemons/react-dynamic-component/static/js/787.7c78784a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.3ef80a4a.js"
+  ]
+}
